@@ -1,0 +1,6 @@
+node_modules
+package-lock.json
+cache.db
+uglifycache.db
+js/game/*
+dist/

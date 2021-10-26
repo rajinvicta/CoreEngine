@@ -1,0 +1,16 @@
+{
+    "PATHS": {
+        "IMG": "assets/img/",
+        "ATLAS": "assets/atlas/",
+        "JSN": "assets/scripts/",
+        "SND": "assets/snd/",
+        "SPN": "assets/spine/"
+    },
+    "SND": {
+        "EXT": ["ogg", "mp3"]
+    },
+    "DISPLAY": {
+        "WIDTH": 1920,
+        "HEIGHT": 1080
+    }
+}

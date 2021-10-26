@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "sourceMap": true,
+    "target": "es5",
+    "module": "es6",
+    "moduleResolution": "node",
+    "rootDir": "./src",
+    "outDir": "./dist/out-tsc",
+    "esModuleInterop": true,
+    "strict": true,
+    "typeRoots": [
+      "./@types"
+    ],
+    "downlevelIteration": true,
+    "lib": [
+    "ES5",
+    "ES2015",
+    "DOM",
+    "ScriptHost"]
+  }
+}
